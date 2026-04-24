@@ -21,7 +21,7 @@ JavaScript (puro)
 API
 
 Pré-visualização
-
+(assets/foto1.png)
 
 Acessar o projeto
 
