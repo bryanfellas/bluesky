@@ -35,4 +35,4 @@ git clone  https://bryanfellas.github.io/bluesky/.git
 cd clima1
 Depois é só abrir o index.html.
 
-Fiz esse projeto pra treinar JavaScript e também porque curto academia, então quis juntar as duas coisas.
+Fiz esse projeto pra treinar uso de APIs e CSS. 
