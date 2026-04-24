@@ -25,11 +25,11 @@ Pré-visualização
 
 Acessar o projeto
 
-https://bryanfellas.github.io/site-de-academia-bom/
+ https://bryanfellas.github.io/bluesky/
 
 Rodar localmente
 
-git clone https://github.com/bryanfellas/site-de-academia-bom.git
+git clone  https://bryanfellas.github.io/bluesky/.git
 cd clima1
 Depois é só abrir o index.html.
 
