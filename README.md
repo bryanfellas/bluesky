@@ -21,7 +21,9 @@ JavaScript (puro)
 API
 
 Pré-visualização
-(assets/foto1.png)
+![Foto 1](assets/foto1.png)
+![Foto 2](assets/foto2.png)
+![Foto 3](assets/foto3.png)
 
 Acessar o projeto
 
