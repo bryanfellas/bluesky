@@ -1,4 +1,4 @@
-🏋️‍♂️ Academia Gains
+Blue Sky
 
 Esse projeto é uma aplicação web que fiz para pessoas olharem o clima e temperatura de onde moram de forma dinamica, foi meu um projeto complicado de codar e difícil e o terceiro de todos.
 
